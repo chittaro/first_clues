@@ -4,7 +4,7 @@ function FinalStep(){
     return (
         <>
             <h3>CORRECT!</h3>
-            <p>Gorgeous work. These letters still don't seem quite right, however. There is one final step needed before the 6 year truth is unveiled. All that is left to guide you is a riddle and a key. The rest is up to you, brave warrier.</p>
+            <p>Gorgeous work. These letters still don't seem quite right, however. There is one final step needed before the 6 year truth is unveiled. All that is left to guide you is a riddle and a key. The rest is up to you, brave warrior.</p>
             <p><strong>KEY:</strong> int(years spent dating since tomakun + 1) * -1</p>
             <p><strong>RIDDLE:</strong>
                 <blockquote>
